@@ -1,0 +1,720 @@
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a has finished in 130 ms
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee has finished in 6 ms
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT has finished in 1 ms
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b has finished in 1 ms
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 12 ms
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_191\jre
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_191-b12
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 09, 2021 10:34:13 上午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 9 ms
+07 09, 2021 10:34:14 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 10:36:15 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 10:36:36 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 10:39:15 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@56e96b1b 检测到了Web应用下的重要文件变化 web.xml 
+07 09, 2021 10:39:15 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 09, 2021 10:39:15 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 10:39:15 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 7 ms
+07 09, 2021 10:39:15 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 09, 2021 10:39:24 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 10:45:02 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@2e1a2668 检测到了Web应用下的重要文件变化 setCookieServlet.class 
+07 09, 2021 10:45:02 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 09, 2021 10:45:02 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 10:45:02 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 10 ms
+07 09, 2021 10:45:02 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 09, 2021 10:45:06 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@48dfeffc 检测到了Web应用下的重要文件变化 SetCookieServlet.class 
+07 09, 2021 10:45:06 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 09, 2021 10:45:06 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 10:45:06 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 4 ms
+07 09, 2021 10:45:06 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 09, 2021 10:45:11 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 10:45:39 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 10:46:41 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@1e1337d5 检测到了Web应用下的重要文件变化 SetCookieServlet.class 
+07 09, 2021 10:46:41 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 09, 2021 10:46:41 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 10:46:41 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 7 ms
+07 09, 2021 10:46:41 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 09, 2021 10:50:15 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a has finished in 96 ms
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee has finished in 3 ms
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT has finished in 0 ms
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b has finished in 1 ms
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 13 ms
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_191\jre
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_191-b12
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 09, 2021 10:50:33 上午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 8 ms
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a has finished in 89 ms
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee has finished in 4 ms
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT has finished in 1 ms
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b has finished in 1 ms
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 10 ms
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_191\jre
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_191-b12
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 09, 2021 10:51:05 上午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 10 ms
+07 09, 2021 10:51:11 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 10:55:26 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@7b0791b1 检测到了Web应用下的重要文件变化 GetCookieServlet.class 
+07 09, 2021 10:55:26 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 09, 2021 10:55:26 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 10:55:27 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 7 ms
+07 09, 2021 10:55:27 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 09, 2021 10:56:06 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@2f944ed6 检测到了Web应用下的重要文件变化 GetCookieServlet.class 
+07 09, 2021 10:56:06 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 09, 2021 10:56:06 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 10:56:06 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 9 ms
+07 09, 2021 10:56:06 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 09, 2021 11:19:34 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@4ce7ecb6 检测到了Web应用下的重要文件变化 web.xml 
+07 09, 2021 11:19:34 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 09, 2021 11:19:34 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 11:19:34 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 4 ms
+07 09, 2021 11:19:34 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a has finished in 84 ms
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee has finished in 3 ms
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT has finished in 1 ms
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b has finished in 0 ms
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 13 ms
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_191\jre
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_191-b12
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 09, 2021 11:25:20 上午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 12 ms
+07 09, 2021 11:25:26 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a has finished in 91 ms
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee has finished in 3 ms
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT has finished in 1 ms
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b has finished in 0 ms
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 15 ms
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_191\jre
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_191-b12
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 4 ms
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 09, 2021 11:25:42 上午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 38 ms
+07 09, 2021 11:25:46 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 11:26:18 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 11:27:07 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@28497a35 检测到了Web应用下的重要文件变化 web.xml 
+07 09, 2021 11:27:07 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 09, 2021 11:27:07 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 11:27:07 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 5 ms
+07 09, 2021 11:27:07 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 09, 2021 11:27:17 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a has finished in 89 ms
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee has finished in 4 ms
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT has finished in 1 ms
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b has finished in 0 ms
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 12 ms
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_191\jre
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_191-b12
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 3 ms
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 09, 2021 11:27:28 上午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 12 ms
+07 09, 2021 11:27:31 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 11:29:21 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@7b0791b1 检测到了Web应用下的重要文件变化 web.xml 
+07 09, 2021 11:29:21 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 09, 2021 11:29:21 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 11:29:21 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 7 ms
+07 09, 2021 11:29:21 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a has finished in 89 ms
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee has finished in 5 ms
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT has finished in 1 ms
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b has finished in 1 ms
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 15 ms
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_191\jre
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_191-b12
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 09, 2021 11:29:34 上午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 10 ms
+07 09, 2021 11:31:17 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a
+07 09, 2021 11:31:17 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a has finished in 92 ms
+07 09, 2021 11:31:17 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee
+07 09, 2021 11:31:17 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee has finished in 4 ms
+07 09, 2021 11:31:17 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT
+07 09, 2021 11:31:17 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT has finished in 1 ms
+07 09, 2021 11:31:17 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b
+07 09, 2021 11:31:17 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b has finished in 1 ms
+07 09, 2021 11:31:17 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 13 ms
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_191\jre
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_191-b12
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 09, 2021 11:31:18 上午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 12 ms
+07 09, 2021 11:31:21 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\a has finished in 87 ms
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\j2ee has finished in 3 ms
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:\Users\sword\eclipse-workspace-2021new\diytomcat\webapps\ROOT has finished in 3 ms
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/diytomcat/b has finished in 0 ms
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deploying web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory C:/Users/sword/eclipse-workspace-2021new/javaweb/web has finished in 11 ms
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_191\jre
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_191-b12
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 09, 2021 11:31:41 上午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 9 ms
+07 09, 2021 11:31:44 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 09, 2021 11:32:17 上午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.how2j.diytomcat.webappservlet.DefaultServlet.service(DefaultServlet.java:40)
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:36)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)

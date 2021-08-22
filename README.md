@@ -14,7 +14,7 @@ To start this customized Tomcat, simply start startup.bat
 ![1](https://user-images.githubusercontent.com/50982809/130361950-6fed3c54-0da2-473b-a3f7-20adbc00fa68.png)
 
 
-## It supports multiple webapps
+## Multiple webapps
 
 ![image](https://user-images.githubusercontent.com/50982809/130362258-f97570ab-5824-4930-9f67-9367332d7553.png)
 ![image](https://user-images.githubusercontent.com/50982809/130362335-d0f915da-e9ed-407b-b5c6-f9f972fb47f0.png)
